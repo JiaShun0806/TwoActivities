@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TwoActivities</string>
+    <string name="button_main">string</string>
+    <string name="TextView">text_header</string>
+</resources>
